@@ -1,13 +1,13 @@
 <h1 align="center"> IN1910 – Programming with Scientific Applications </h1> 
 
 
-<h3 align="center"> Course Description </h1> 
+<h3 align="center"> Course Description </h3> 
 
 <p align="center"> 
 The course is a continuation of the course IN1900 (Introduction to Programming with Scientific Applications), and provides an introduction to more advanced concepts in programming and software development. The central goal of the subject is to introduce new tools and concepts for scientific programming.
 </p>
 
-<h3 align="center"> Learning Outcome </h1> 
+<h3 align="center"> Learning Outcome </h3> 
 
 - Be able to write programs that solve math problems you encounter in Computational Sciences.
 - Have basic skills in Python programming using data structures, functions, classes, objects, modules and vectorized calculations
